@@ -3,7 +3,7 @@ import Librosa_Feature #Feature Extraction
 from ML_Model import SVM_Model, MLP_Model # SVM, MLP - Train & Evaluate
 from Config import Config #File Path
 
-print ("TEST-SVM using librosa for SAVEE")
+print ("TEST-SVM using librosa for RAVDESS")
 print ("FEATURE: 21 features including MFCC, pitch, magnitude, etc")
 
 

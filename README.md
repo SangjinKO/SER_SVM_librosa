@@ -13,3 +13,5 @@ pitch_tuning_offset, meanrms, maxrms, stdrms,
 mfccs, mfccsstd, mfccmax, chroma, mel, contrast
 
 Result: Accuracy: 56.6%
+
+*MEMO: Files (corpus) should be categorized and stored in different folders by labels (emotions)
